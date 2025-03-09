@@ -1,0 +1,589 @@
+{
+  "colorInfo": {
+    "colorSpace": [
+      {
+        "iccName": "Fujifilm Generic RGB.icm",
+        "iccSpace": "DeviceRGB",
+        "id": "CS1",
+        "isValid": true,
+        "location": [
+          {
+            "maxX": 56.817,
+            "maxY": 298.471,
+            "minX": 15.523,
+            "minY": 227.701,
+            "page": 0
+          }
+        ],
+        "ranges": {
+          "B": {
+            "max": 1.0,
+            "min": 0.0
+          },
+          "G": {
+            "max": 1.0,
+            "min": 0.0
+          },
+          "R": {
+            "max": 1.0,
+            "min": 0.0
+          }
+        },
+        "type": "ICCBased"
+      },
+      {
+        "baseSpace": {
+          "idref": "CS1",
+          "value": "ICCBased"
+        },
+        "id": "CS2",
+        "location": [
+          {
+            "maxX": 27.771,
+            "maxY": 187.075,
+            "minX": 4.582,
+            "minY": 114.727,
+            "page": 0
+          }
+        ],
+        "ranges": {
+          "range": {
+            "max": 64,
+            "min": 0
+          }
+        },
+        "type": "Indexed"
+      },
+      {
+        "baseSpace": {
+          "idref": "CS1",
+          "value": "ICCBased"
+        },
+        "id": "CS3",
+        "location": [
+          {
+            "maxX": 158.66,
+            "maxY": 212.424,
+            "minX": 88.217,
+            "minY": 130.89,
+            "page": 0
+          }
+        ],
+        "ranges": {
+          "range": {
+            "max": 1,
+            "min": 0
+          }
+        },
+        "type": "Indexed"
+      },
+      {
+        "alternate": "LabSpace",
+        "id": "CS4",
+        "location": [
+          {
+            "maxX": 163.278,
+            "maxY": -45.956,
+            "minX": 61.095,
+            "minY": -148.138,
+            "page": 0
+          }
+        ],
+        "name": "PANTONE 875 C",
+        "subType": "Spot",
+        "type": "Separation"
+      }
+    ]
+  },
+  "fontInfo": [
+    [
+      {
+        "baseFontType": "Type 1",
+        "callbackIsAvailable": false,
+        "encodingType": "WinAnsi",
+        "fontName": "ProximaNova-Extrabld",
+        "fontType": "Type 1",
+        "isEmbedded": true,
+        "isOpenTypeEmbedded": false,
+        "isSubset": true,
+        "location": {
+          "maxX": 197.213,
+          "maxY": 196.152,
+          "minX": 188.463,
+          "minY": 122.746,
+          "page": 0
+        }
+      }
+    ]
+  ],
+  "generalDocInfo": {
+    "documentCompression": {
+      "dataFormat": "binary",
+      "filterType": [
+        "ASCII85",
+        "ZIP"
+      ],
+      "isCompressed": true
+    },
+    "documentProperties": {
+      "author": "",
+      "containsJobTicket": false,
+      "containsThumbnails": "true",
+      "creationDate": "2023-05-31T13:49:02",
+      "creator": "Adobe Illustrator 27.0 (Macintosh)",
+      "documentName": "my_pdf_sample.pdf",
+      "isLinearized": false,
+      "keywords": "",
+      "leftToRightReading": "left",
+      "modificationDate": "2024-02-26T15:55:03",
+      "numPages": 1,
+      "pdfVersion": {
+        "major": 1,
+        "minor": 6,
+        "version": "1.6"
+      },
+      "prinergyTraps": "false",
+      "producer": "Adobe PDF library 16.07",
+      "subject": "",
+      "title": "Demo file 2",
+      "trapped": "false",
+      "wasRepairedOnOpen": false
+    },
+    "documentSecurity": {
+      "encryptionType": "none",
+      "permissions": {
+        "extractAccessibility": true,
+        "extractNonAccessibility": true,
+        "modifyAssembleDoc": true,
+        "modifyFillAndSign": true,
+        "modifyNotes": true,
+        "modifyOther": true,
+        "modifySecurity": true,
+        "printHighQuality": true,
+        "printLowQuality": true
+      }
+    }
+  },
+  "imageInfo": [
+    {
+      "angle": {
+        "unit": "degrees",
+        "value": -70.232
+      },
+      "bitsPerChannel": 8,
+      "colorSpace": {
+        "idref": "CS1",
+        "value": "ICCBased"
+      },
+      "effectiveResolution": {
+        "horizontal": 309.161,
+        "unit": "ppi",
+        "vertical": 309.161
+      },
+      "hasCustomBlackGeneration": false,
+      "hasCustomHalftone": false,
+      "hasCustomTransfer": false,
+      "hasCustomUnderColorRemoval": false,
+      "imageType": "Color",
+      "isFlipped": false,
+      "isSkewed": false,
+      "location": [
+        {
+          "maxX": 205.992,
+          "maxY": 233.862,
+          "minX": 76.607,
+          "minY": 126.766,
+          "page": 0
+        }
+      ],
+      "physicalResolution": {
+        "horizontal": 1350.0,
+        "unit": "pixels",
+        "vertical": 900.0
+      }
+    },
+    {
+      "angle": {
+        "unit": "degrees",
+        "value": 0.0
+      },
+      "bitsPerChannel": 8,
+      "colorSpace": {
+        "idref": "CS1",
+        "value": "ICCBased"
+      },
+      "effectiveResolution": {
+        "horizontal": 161.381,
+        "unit": "ppi",
+        "vertical": 161.381
+      },
+      "hasCustomBlackGeneration": false,
+      "hasCustomHalftone": false,
+      "hasCustomTransfer": false,
+      "hasCustomUnderColorRemoval": false,
+      "imageType": "Color",
+      "isFlipped": false,
+      "isSkewed": false,
+      "location": [
+        {
+          "maxX": 210.533,
+          "maxY": 138.312,
+          "minX": -2.104,
+          "minY": -3.498,
+          "page": 0
+        }
+      ],
+      "physicalResolution": {
+        "horizontal": 1351.0,
+        "unit": "pixels",
+        "vertical": 901.0
+      }
+    },
+    {
+      "angle": {
+        "unit": "degrees",
+        "value": 0.0
+      },
+      "bitsPerChannel": 8,
+      "colorSpace": {
+        "idref": "CS1",
+        "value": "ICCBased"
+      },
+      "effectiveResolution": {
+        "horizontal": 334.117,
+        "unit": "ppi",
+        "vertical": 334.117
+      },
+      "hasCustomBlackGeneration": false,
+      "hasCustomHalftone": false,
+      "hasCustomTransfer": false,
+      "hasCustomUnderColorRemoval": false,
+      "imageType": "Color",
+      "isFlipped": false,
+      "isSkewed": false,
+      "location": [
+        {
+          "maxX": 250.98,
+          "maxY": 222.638,
+          "minX": -26.345,
+          "minY": -193.35,
+          "page": 0
+        }
+      ],
+      "physicalResolution": {
+        "horizontal": 3648.0,
+        "unit": "pixels",
+        "vertical": 5472.0
+      }
+    },
+    {
+      "angle": {
+        "unit": "degrees",
+        "value": 0.0
+      },
+      "bitsPerChannel": 8,
+      "colorSpace": {
+        "idref": "CS2",
+        "value": "Indexed"
+      },
+      "effectiveResolution": {
+        "horizontal": 109.536,
+        "unit": "ppi",
+        "vertical": 109.536
+      },
+      "hasCustomBlackGeneration": false,
+      "hasCustomHalftone": false,
+      "hasCustomTransfer": false,
+      "hasCustomUnderColorRemoval": false,
+      "imageType": "Color",
+      "isFlipped": false,
+      "isSkewed": false,
+      "location": [
+        {
+          "maxX": 27.771,
+          "maxY": 187.075,
+          "minX": 4.582,
+          "minY": 114.727,
+          "page": 0
+        }
+      ],
+      "physicalResolution": {
+        "horizontal": 312.0,
+        "unit": "pixels",
+        "vertical": 100.0
+      }
+    },
+    {
+      "angle": {
+        "unit": "degrees",
+        "value": 0.0
+      },
+      "bitsPerChannel": 8,
+      "colorSpace": {
+        "idref": "CS3",
+        "value": "Indexed"
+      },
+      "effectiveResolution": {
+        "horizontal": 300.0,
+        "unit": "ppi",
+        "vertical": 300.0
+      },
+      "hasCustomBlackGeneration": false,
+      "hasCustomHalftone": false,
+      "hasCustomTransfer": false,
+      "hasCustomUnderColorRemoval": false,
+      "imageType": "Color",
+      "isFlipped": false,
+      "isSkewed": false,
+      "location": [
+        {
+          "maxX": 158.66,
+          "maxY": 212.424,
+          "minX": 88.217,
+          "minY": 130.89,
+          "page": 0
+        }
+      ],
+      "physicalResolution": {
+        "horizontal": 832.0,
+        "unit": "pixels",
+        "vertical": 963.0
+      }
+    },
+    {
+      "angle": {
+        "unit": "degrees",
+        "value": 0.0
+      },
+      "bitsPerChannel": 8,
+      "colorSpace": "DeviceGray",
+      "effectiveResolution": {
+        "horizontal": 300.0,
+        "unit": "ppi",
+        "vertical": 300.0
+      },
+      "hasCustomBlackGeneration": false,
+      "hasCustomHalftone": false,
+      "hasCustomTransfer": false,
+      "hasCustomUnderColorRemoval": false,
+      "imageType": "Grayscale",
+      "isFlipped": false,
+      "isSkewed": false,
+      "location": [
+        {
+          "maxX": 158.66,
+          "maxY": 212.424,
+          "minX": 88.217,
+          "minY": 130.89,
+          "page": 0
+        }
+      ],
+      "physicalResolution": {
+        "horizontal": 832.0,
+        "unit": "pixels",
+        "vertical": 963.0
+      }
+    }
+  ],
+  "lang": "en-US",
+  "opiInfo": [],
+  "outputIntentInfo": {
+    "documentOutputIntent": [
+      {
+        "type": "GTS_PDFX",
+        "var": {
+          "Additional information": "Fujifilm Generic CMYK.icm",
+          "Destination output profile": "Fujifilm Generic CMYK.icm",
+          "Output condition": "Fujifilm Generic CMYK.icm",
+          "Output condition identifier": "Custom"
+        }
+      }
+    ]
+  },
+  "pageBoxInfo": {
+    "page": [
+      {
+        "artBox": {
+          "defined": false,
+          "height": 309.0,
+          "maxX": 216.0,
+          "maxY": 303.0,
+          "minX": -6.0,
+          "minY": -6.0,
+          "width": 222.0
+        },
+        "bleedBox": {
+          "defined": true,
+          "height": 303.0,
+          "maxX": 213.0,
+          "maxY": 300.0,
+          "minX": -3.0,
+          "minY": -3.0,
+          "width": 216.0
+        },
+        "cropBox": {
+          "defined": true,
+          "height": 309.0,
+          "maxX": 216.0,
+          "maxY": 303.0,
+          "minX": -6.0,
+          "minY": -6.0,
+          "width": 222.0
+        },
+        "index": 0,
+        "mediaBox": {
+          "defined": true,
+          "height": 309.0,
+          "maxX": 216.0,
+          "maxY": 303.0,
+          "minX": -6.0,
+          "minY": -6.0,
+          "width": 222.0
+        },
+        "rotate": 0,
+        "scaling": 1.0,
+        "trimBox": {
+          "defined": true,
+          "height": 297.0,
+          "maxX": 210.0,
+          "maxY": 297.0,
+          "minX": 0.0,
+          "minY": 0.0,
+          "width": 210.0
+        }
+      }
+    ],
+    "pageBoxesEqual": true
+  },
+  "preflightReport": {
+    "criticalfailuresNumber": 0,
+    "errorsNumber": 0,
+    "fixes": {
+      "preflightReportItem": [
+        {
+          "actionID": 3173,
+          "location": [],
+          "message": "PDF/X-4 : Changed PDF/X-4 Output Intent to Custom",
+          "stringContext": {
+            "baseString": "PDF/X-4 : Changed %PDFXVersion% Output Intent to %RequiredICCInformation%",
+            "var": {
+              "PDFXVersion": "PDF/X-4",
+              "RequiredICCInformation": "Custom"
+            }
+          }
+        },
+        {
+          "actionID": 4325,
+          "location": [
+            {
+              "maxX": 216.0,
+              "maxY": 303.0,
+              "minX": -6.0,
+              "minY": -6.0,
+              "page": 0
+            }
+          ],
+          "message": "PDF/X-4 : Changed default color spaces (1x on page 1)",
+          "stringContext": {
+            "baseString": "PDF/X-4 : Changed default color spaces",
+            "var": {}
+          }
+        },
+        {
+          "actionID": 4508,
+          "location": [
+            {
+              "maxX": 197.213,
+              "maxY": 196.152,
+              "minX": 188.463,
+              "minY": 122.746,
+              "page": 0
+            }
+          ],
+          "message": "PDF/X-4 : Fixed all corrupt font widths (including unused characters) (1x on page 1)",
+          "stringContext": {
+            "baseString": "PDF/X-4 : Fixed all corrupt font widths (including unused characters)",
+            "var": {}
+          }
+        },
+        {
+          "actionID": 4409,
+          "location": [],
+          "message": "PDF/X-4 : XMP file identifiers set",
+          "stringContext": {
+            "baseString": "PDF/X-4 : XMP file identifiers set",
+            "var": {}
+          }
+        },
+        {
+          "actionID": 2049,
+          "location": [],
+          "message": "PDF/X-4 : Changed trapped flag to \"False\"",
+          "stringContext": {
+            "baseString": "PDF/X-4 : Changed trapped flag to %RequiredTrappedFlag%",
+            "var": {
+              "RequiredTrappedFlag": "\"False\""
+            }
+          }
+        },
+        {
+          "actionID": 3178,
+          "location": [
+            {
+              "maxX": 216.0,
+              "maxY": 303.0,
+              "minX": -6.0,
+              "minY": -6.0,
+              "page": 0
+            }
+          ],
+          "message": "PDF/X-4 : Changed page box layout conform the PDF/X-4 layout specifications (1x on page 1)",
+          "stringContext": {
+            "baseString": "PDF/X-4 : Changed page box layout conform the %BoxLayoutType% specifications",
+            "var": {
+              "BoxLayoutType": "PDF/X-4 layout"
+            }
+          }
+        },
+        {
+          "actionID": 4763,
+          "location": [],
+          "message": "PDF/X-4 : Added name for layer configuration",
+          "stringContext": {
+            "baseString": "PDF/X-4 : Added name for layer configuration",
+            "var": {}
+          }
+        },
+        {
+          "actionID": 3168,
+          "location": [],
+          "message": "PDF/X-4 : Changed PDF/X version key to PDF/X-4",
+          "stringContext": {
+            "baseString": "PDF/X-4 : Changed PDF/X version key to %RequiredPDFXVersionKey%",
+            "var": {
+              "RequiredPDFXVersionKey": "PDF/X-4"
+            }
+          }
+        }
+      ]
+    },
+    "fixesNumber": 8,
+    "informationsNumber": 0,
+    "noncriticalfailuresNumber": 0,
+    "signoffsNumber": 0,
+    "warningsNumber": 0
+  },
+  "processInfo": {
+    "engineFlavor": "Enfocus Cloud Processor 2349",
+    "hostAppName": "PLC 2349",
+    "pageRange": "1",
+    "preflightDateTime": "2024-03-21T10:50:50",
+    "preflightProfile": "PDF/X-4",
+    "profileCreator": {
+      "author": "Enfocus Customer Support",
+      "company": "Enfocus"
+    }
+  },
+  "unit": "mm",
+  "version": "1.0"
+}
