@@ -1,0 +1,30 @@
+#BEGINPREFS
+
+"AnnotatedReportSettings"
+#BEGINDICT
+"BookmarksView" "ReportItemsView"
+"TransparencyColor" "0.00000000 10.00000000 0.00000000"
+"InitiallyOpenSummaryAnnotation" "true"
+"MustAddURI" "true"
+"ViewingOnly" "false"
+"SummaryAnnotationColor" "100.00000000 100.00000000 0.00000000"
+"AddSummaryAnnotation" "true"
+#ENDDICT
+
+"PitStopReport"
+#BEGINDICT
+"ReportLayoutType" "AnnotatedReport"
+"ReportLayoutVersion" "2"
+"ReportLayoutName" "Annotated Report"
+"ReportLayoutNamedeDE" "Kommentierter Bericht"
+"ReportLayoutNamefrFR" "Rapport annoté"
+"ReportLayoutNameesES" "Informe Anotado"
+"ReportLayoutNameitIT" "Rapporto Annotato"
+"ReportLayoutNamejaJA" "注釈付きレポート"
+"ReportLayoutNamezhCN" "带批注的报告"
+"ReportLayoutNamenlNL" "Geannoteerd rapport"
+"ReportLayoutNameplPL" "Raport Adnotacji"
+"ReportLayoutNameptBR" "Relatório com anotações"
+#ENDDICT
+
+#ENDPREFS
